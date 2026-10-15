@@ -1,0 +1,6 @@
+COMO ABRIR NO CHROME
+
+1. Extraia este arquivo ZIP.
+2. Abra a pasta extraída.
+3. Dê duplo clique em index.html.
+4. Use o menu lateral para navegar entre Visão geral, Categorias, Mesada, Movimentações e Análise detalhada.
